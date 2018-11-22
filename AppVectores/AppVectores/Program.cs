@@ -10,7 +10,12 @@ namespace AppVectores
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("control de veresiones");
+            Console.WriteLine("control de veresiones1");
+            Console.WriteLine("control de veresiones2");
+            Console.WriteLine("control de veresiones3");
+            Console.WriteLine("control de veresiones4");
+            Console.WriteLine("control de veresiones5");
+            Console.WriteLine("Probando control de veresiones");
             Console.ReadKey(); 
         }
     }
