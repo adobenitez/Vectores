@@ -15,6 +15,7 @@ namespace AppVectores
             Console.WriteLine("control de veresiones3");
             Console.WriteLine("control de veresiones4");
             Console.WriteLine("control de veresiones5");
+            Console.WriteLine("Probando Control");
             Console.WriteLine("Probando control de veresiones");
             Console.ReadKey(); 
         }
